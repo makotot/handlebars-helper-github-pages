@@ -1,4 +1,4 @@
-# {{github-pages}}
+# {{github-pages}} [![Build Status](http://img.shields.io/travis/makotot/handlebars-helper-github-pages/master.svg?style=flat)](https://travis-ci.org/makotot/handlebars-helper-github-pages)
 
 > Handlebars helper for adding github pages url.
 
