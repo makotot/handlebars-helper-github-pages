@@ -24,8 +24,12 @@ grunt.initConfig({
 });
 ```
 
-# Usage
+## Usage
 
 ```hbs
 <a href="{{github-pages}}">Home</a>
 ```
+
+## License
+
+MIT
